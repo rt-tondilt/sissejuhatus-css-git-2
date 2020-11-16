@@ -1,2 +1,2 @@
 Paar rida omal valikul.
-See on teine rida.
+See on teise tudengi teine rida.
